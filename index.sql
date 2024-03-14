@@ -1,0 +1,1 @@
+create index transformation_function_index on transformation_function using hash(name)
